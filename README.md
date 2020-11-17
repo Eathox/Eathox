@@ -1,7 +1,7 @@
 ### Heyo 👋
 
 I'm a software engineer student at [Codam Coding College](https://www.codam.nl/en/)
-As part of my studies I am interning at @Vandebron and helping with the green energy mission!
+As part of my studies I am interning at [Vandebron](https://vandebron.nl/) and helping with the green energy mission!
 
 My interests in programming were sparked by the game [Arma 3](https://arma3.com/). I have made some scripts and mod(s) for the game, and ultimately this set me on the path to becoming a software engineer. I still actively play Arma and am currently a member of [TFA](http://tf-aspis.com/) <img src="https://tf-aspis.com/wp-content/uploads/2020/04/cropped-insignia-2.png" width=20 align=top></a>
 
