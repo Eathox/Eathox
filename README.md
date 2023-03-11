@@ -3,7 +3,7 @@
 I'm a software engineer student at [Codam Coding College](https://www.codam.nl/en/).
 As part of my studies I did an internship at [Vandebron](https://vandebron.nl/).
 
-My interests in programming were sparked by the game [Arma 3](https://arma3.com/). I have made some scripts and mod(s) for the game, and ultimately this set me on the path to becoming a software engineer. I still actively play Arma and am currently a member of [TFG](https://units.arma3.com/unit/tfgru)
+My interests in programming were sparked by the game [Arma 3](https://arma3.com/). I have made some scripts and mod(s) for the game, and ultimately this set me on the path to becoming a software engineer.
 
 I keep all personal projects and projects I completed at Codam here on github. If you have any questions or feedback, don't hesitate to create a new issue, pull request, or to reach out.
 
